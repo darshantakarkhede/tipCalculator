@@ -1,0 +1,12 @@
+.container{
+    height: 100vh;
+}
+.feedback{
+    display: none;
+}
+.results{
+    display: none;
+}
+.showItem{
+    display: block;
+}
